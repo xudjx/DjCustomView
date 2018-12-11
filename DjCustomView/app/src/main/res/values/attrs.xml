@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DjTagGroup">
+        <attr name="tag_horizontalSpacing" format="dimension" />
+        <attr name="tag_verticalSpacing" format="dimension" />
+        <attr name="max_row" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="Themes">
+        <attr name="tagGroupStyle" format="reference" />
+    </declare-styleable>
+</resources>
