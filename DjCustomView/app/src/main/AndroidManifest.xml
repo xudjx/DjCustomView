@@ -16,6 +16,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".tag.TagActivity" />
+
+        <activity android:name=".badgeview.BadgeActivity" />
     </application>
 
 </manifest>

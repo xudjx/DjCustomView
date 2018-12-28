@@ -24,6 +24,13 @@
                 android:layout_marginTop="15dp"
                 android:text="自定义标签" />
 
+            <Button
+                android:id="@+id/badge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:text="自定义Badge" />
+
         </LinearLayout>
 
 

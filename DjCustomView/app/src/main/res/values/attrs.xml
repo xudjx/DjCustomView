@@ -10,4 +10,30 @@
     <declare-styleable name="Themes">
         <attr name="tagGroupStyle" format="reference" />
     </declare-styleable>
+
+    <attr name="badgeType">
+        <flag name="point" value="0x01"/>
+        <flag name="number" value="0x02"/>
+        <flag name="text" value="0x04"/>
+    </attr>
+    <attr name="badgeColor" format="color"/>
+    <declare-styleable name="BadgeView">
+        <attr name="badgeType"/>
+        <attr name="badgeColor"/>
+        <attr name="pointRadius" format="dimension"/>
+        <attr name="textRadius" format="dimension"/>
+    </declare-styleable>
+
+    <declare-styleable name="BadgeLayout">
+        <attr name="badgeType"/>
+        <attr name="badgeColor"/>
+        <attr name="badgeTextColor" format="color"/>
+        <attr name="badgeOffSetX" format="float"/>
+        <attr name="badgeOffSetY" format="float"/>
+        <attr name="badgeTextSize" format="dimension"/>
+        <attr name="badgePaddingLeft" format="dimension"/>
+        <attr name="badgePaddingTop" format="dimension"/>
+        <attr name="badgePaddingRight" format="dimension"/>
+        <attr name="badgePaddingBottom" format="dimension"/>
+    </declare-styleable>
 </resources>
