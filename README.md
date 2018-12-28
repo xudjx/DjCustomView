@@ -43,4 +43,4 @@ badgeLayout3.setBadgeText("新活动");
 
 实际效果
 
-![BadgeView](https://image.studio.dajiazhongyi.com/studio/image/WT/AM/R8/WTAMR8XUb7nPa1NNLbet.jpg)
+![](https://upload-images.jianshu.io/upload_images/1420866-1764e727d41cf57b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
